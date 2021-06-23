@@ -1,9 +1,14 @@
 # South-China-Normal-University-Admissions-Promotion
 
-另类角度的华师招生宣传视频
+华师招生宣传视频
 
 ### 文件组成
 
-- RES.mp4 宣传视频
 - 多媒体项目小组报告
+
+- 视频播放地址https://file.yukino.me/s/B4IZ
+
+-  或在release中播放
+
+    
 
